@@ -1,5 +1,5 @@
 |Timestamp|Name|Last Name|Email|Field|Online Presence|Framework/Technology/Software you know/use|City|
-||:-:|||:-:|||:-:|||:-:|||:-:|||:-:|||:-:|||:-:||
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1/28/2014 3:31:17|Filippo|Sanzeni|sanzenifilippo@yahoo.it|Graphics||unclefat.deviantart.com|Milano|
 |1/28/2014 3:31:25|Marco|Valtriani|marco.valtriani@gmail.com|Game Designer|facebook
 www.bgditalia.it (community)
