@@ -1,6 +1,6 @@
 Collezione di tutti i talenti nello sviluppo di videogiochi (e non solo) nella zona di Milano.
 
-Una prima lista di alcuni partecipanti è (qui)[lista]
+Una prima lista di alcuni partecipanti è [qui](lista)
 
 Per essere aggiunti basta compilare il form.
 
